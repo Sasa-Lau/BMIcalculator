@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="action_settings">Weight Calculator</string>
+    <string name="title_activity_calculate">CalculateActivity</string>
+    <string name="weight">Weight in kg</string>
+    <string name="height">Height in cm</string>
+    <string name="calculateBMI">CALCULATE BMI</string>
+    <string name="title_activity_result">ResultActivity</string>
+</resources>
